@@ -28,3 +28,7 @@
 .page-header {
   padding: 250px 0 100px;
 }
+
+.use-case__img {
+  opacity: .7;
+}

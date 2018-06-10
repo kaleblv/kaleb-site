@@ -8470,14 +8470,6 @@ body {
     bottom: 35px;
   }
 }
-.main-hero {
-  padding: 250px 0;
-}
-.scroll-down-icon {
-  font-size: 1.9em;
-  position: absolute;
-  top: 190px;
-}
 #about {
   padding: 150px 0;
 }
@@ -8538,4 +8530,7 @@ body {
 }
 .page-header {
   padding: 250px 0 100px;
+}
+.use-case__img {
+  opacity: .7;
 }
