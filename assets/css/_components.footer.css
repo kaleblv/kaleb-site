@@ -1,0 +1,14 @@
+@media (min-width: 576px) {
+  footer .social-profiles {
+    display: inline-block;
+    margin-right: 50px;
+  }
+}
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  footer .social-profiles {
+    display: none;
+  }
+}

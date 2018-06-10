@@ -1,0 +1,30 @@
+.use-case__wrapper {
+  padding: 0 0 100px;
+}
+
+.use-case__col {
+  background: #161616;
+  color: #303030;
+}
+
+.use-case__copy {
+  padding: 50px;
+}
+
+.use-case__title {
+  color: #fff;
+  font-size: 4em;
+}
+
+.use-case__col .btn-light {
+  color: #161616;
+}
+
+.use-case__col .btn-light:hover {
+  color: #fff;
+}
+
+
+.page-header {
+  padding: 250px 0 100px;
+}
