@@ -76,7 +76,7 @@ module.exports = __webpack_require__(189);
 /***/ 189:
 /***/ (function(module, exports) {
 
-console.log('you can use ES6 here : )');
+
 
 /***/ })
 
