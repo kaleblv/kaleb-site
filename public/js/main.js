@@ -76,7 +76,10 @@ module.exports = __webpack_require__(189);
 /***/ 189:
 /***/ (function(module, exports) {
 
+$(function () {
 
+    $('#contact-form').validator();
+});
 
 /***/ })
 
