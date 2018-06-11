@@ -8534,3 +8534,30 @@ body {
 .use-case__img {
   opacity: .7;
 }
+.use-case__container {
+  margin-top: 130px;
+}
+.use-case__container h3:first-child {
+  margin-top: 0;
+}
+.use-case__container h3 {
+  margin: 60px 0 20px;
+}
+.use-case__container h4 {
+  margin: 80px 0 40px;
+}
+.outline {
+  border: 1px solid #cdcdcd;
+}
+.user-case__conclusion {
+  margin: 80px 0 20px;
+}
+.client-item img {
+  max-width: 70px;
+}
+.tools__title {
+  margin: 0 0 50px;
+}
+.tool__title {
+  margin-top: 20px;
+}
