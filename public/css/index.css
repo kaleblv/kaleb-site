@@ -8552,6 +8552,16 @@ body {
 .user-case__conclusion {
   margin: 80px 0 20px;
 }
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 768px) {
+  .use-case__img {
+    display: none;
+  }
+  .section-header span.back-text {
+    font-size: 51px;
+    line-height: 62px;
+  }
+}
 .client-item img {
   max-width: 70px;
 }
